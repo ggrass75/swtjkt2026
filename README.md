@@ -11,8 +11,8 @@ Welcome! This folder contains step-by-step guides for completing practical lab e
 
 Select a lab from the index below to view the instructions:
 
-| Lab # | Title | Target Audience | Link |
-| :--- | :--- | :--- | :--- |
+| Lab # | Title |  Link |
+| :--- | :--- |  :--- |
 | **Lab 01** | Predictive Maintenance | [Open Lab 01](./docs/predictive_maintenance.md) |
 | **Lab 02** | Production Quality | [Open Lab 02](./docs/production_quality.md) |
 | **Lab 03** | Demand Inventory | [Open Lab 03](./docs/demand_inventory.md) |
