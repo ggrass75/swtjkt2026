@@ -23,6 +23,12 @@ Select a lab from the index below to view the instructions:
 - Snowflake Account.
 - CoCo Desktop.
 
+| Requirement # | Title |  Link |
+| :--- | :--- |  :--- |
+| **REQ 01** | Account Setup | [Open ACCOUNTSETUP.md](./ACCOUNTSETUP.md) |
+| **REQ 02** | CoCo Desktop Setup | [Open COCODESKTOPSETUP.md](./COCODESKTOPSETUP.md) |
+
+
 # Snowflake Account Setup
 Sign-up snowflake trial account using this link:
 https://signup.snowflake.com/?t=5f39fa652532c18374be5950c35f076c93af8fd0a0b0eeef38c63a1bd49c398f&cloud=aws&region=us-east-2
