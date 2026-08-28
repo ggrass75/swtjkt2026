@@ -28,16 +28,19 @@ Select a lab from the index below to view the instructions:
 | **Lab 03** | Demand Inventory | [Open Lab 03](./docs/demand_inventory.md) |
 
 
-# Snowflake Account Setup
+# 1.Snowflake Account Setup
 Sign-up snowflake trial account using this link:
 
 https://tinyurl.com/SWTJKT-Trial
 
-# Install CoCo Desktop
+# 2.Install CoCo Desktop
 Download and install CoCo desktop from this link:
 
 https://tinyurl.com/SWTJKT-CoCo
 
 
-# Setup Connection To Your Snowflake Account From CoCo Desktop
+# 3.Setup Connection To Your Snowflake Account From CoCo Desktop
+
+Check CoCo Desktop setup link above
+
 
