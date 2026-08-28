@@ -31,12 +31,12 @@ Select a lab from the index below to view the instructions:
 # Snowflake Account Setup
 Sign-up snowflake trial account using this link:
 
-https://signup.snowflake.com/?t=5f39fa652532c18374be5950c35f076c93af8fd0a0b0eeef38c63a1bd49c398f&cloud=aws&region=us-east-2
+https://tinyurl.com/SWTJKT-Trial
 
 # Install CoCo Desktop
 Download and install CoCo desktop from this link:
 
-https://www.snowflake.com/en/product/snowflake-coco/downloads/
+https://tinyurl.com/SWTJKT-CoCo
 
 
 # Setup Connection To Your Snowflake Account From CoCo Desktop
